@@ -36,6 +36,9 @@ A felület tárolja, csoportosítja és megjeleníti a projekteket, feladatokat 
 ### 🚨 Hibabejelentés
 Hibák, problémák és megoldandó feladatok bejelenthetők, amelyeket automatikusan a megfelelő személyhez rendel a rendszer.
 
+### Újdonságok ablak
+A legutóbbi 24 órában kapott üzeneteket lehet itt megtekinteni. Ebbe beletartoznak a projekt, naptár és esemény módösítások, illetve a chat üzenetek.
+
 ### Feladat elosztás
 Lehetőség szerint közösen dolgozunk a fő komponensein a weboldalunknak. Azokat az elemeket itt fogjuk kiemelni amin külön dolgoztunk, megjelölve azt, hogy ki és mit csinált pontosan a fejlesztés során fokozatosan.
 
